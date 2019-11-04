@@ -1,5 +1,5 @@
 hello:
-  name: weestt pro!
+  name: eere pro!
 # 开启熔断机制
 feign:
   hystrix:
